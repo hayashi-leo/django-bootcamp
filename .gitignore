@@ -1,0 +1,19 @@
+## File types #
+*.pyc
+*.swo
+*.swp
+*.swn
+
+## Directories #
+virtualenv/
+
+## OS generated files #
+.DS_Store
+ehthumbs.db
+Icon
+Thumbs.db
+*~
+__pycache__
+db.sqlite3
+/static
+

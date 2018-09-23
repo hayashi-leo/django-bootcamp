@@ -1,0 +1,15 @@
+bleach==2.0.0 # mozilla bleach.  allowed-list-based HTML sanitizing library
+coverage==4.4.1 # a tool for measuring code coverage of Python programs.
+dj-database-url==0.4.2
+dj-static==0.0.6
+django-autoslug==1.9.3
+django-taggit==0.22.1
+Django==1.11.4
+gunicorn==19.7.1 # 'Green Unicorn' is a Python WSGI HTTP server for UNIX.
+Markdown==2.6.8 # Python port of Markdown by John Gruber.  Markdown is text-to-HTML conversion tool for web writers.
+Pillow==4.2.1 # Python image library PIL
+psycopg2==2.7.3 # PostgreSQL adapter for Python
+pytz==2017.2 # World timezone definitions for python
+Unipath==1.1 # object-oriented front end to file/directory functions scattered through python library modules.
+whitenoise==3.3.0 # simplified static file serving for python web-apps.
+
